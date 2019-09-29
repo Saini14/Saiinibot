@@ -19,4 +19,4 @@ if __name__ == '__main__':
             print(f"[=Loaded=]: {extension}")
         except Exception as error:
             print(f"[=Error=] {error}")
-bot.run("NTk0Mzg5NzAzNjM4Mzg0NjUw.XVGU8g.gh-GI-H-gzYZY-T1s6sGodY3mjA")
+bot.run("NTk0Mzg5NzAzNjM4Mzg0NjUw.XZAG8w.M_udDwztJIlbyfc_8iQAH_p28j4")
